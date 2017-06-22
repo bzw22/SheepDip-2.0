@@ -1,6 +1,6 @@
 SheepDip-2.0
 ============
-The aim of this project is to provide a save means of transfering files from a USB drive of unknown origin to a users computer. It builds upon "KittenGroomer" / CIRCLean. The main mechanism for 
+The aim of this project is to provide a save means of transfering files from a USB drive of unknown origin to a users computer. It builds upon "KittenGroomer" / CIRCLean. The main mechanism for this is through flattening of files to a safe format.
 
 CIRCLean
 ========
