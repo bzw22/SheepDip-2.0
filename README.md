@@ -1,10 +1,10 @@
+SheepDip-2.0
+============
+The aim of this project is to provide a save means of transfering files from a USB drive of unknown origin to a users computer. It builds upon "KittenGroomer" / CIRCLean. The main mechanism for 
+
 CIRCLean
 ========
-
-[![Chatroom](https://badges.gitter.im/CIRCLean/Lobby.svg)](https://gitter.im/CIRCLean/Lobby)
-
-![CIRCLean logo](https://www.circl.lu/assets/images/logos/circlean.png)
-![Cleaner in action](http://www.circl.lu/assets/images/CIRCLean/CIRCLean.png)
+The official CIRCLean project page can be found at [https://www.circl.lu/projects/CIRCLean/]
 
 How To Install
 ==============
@@ -23,10 +23,6 @@ This is a work in progress - contributions are welcome.
 
 Why/What
 ========
-
-This project aims to be useful when you get/find a USB key that you can't trust,
-and you want to look at its contents without taking the risk of plugging it into
-your computer directly. The official project page can be found at [https://www.circl.lu/projects/CIRCLean/]
 
 The Raspberry Pi Foundation has a [blog post](https://www.raspberrypi.org/blog/kittengroomercirclean-data-security-for-journalists-and-activists/) with more information
 about an older version of the project and details of the inspiration behind it.
